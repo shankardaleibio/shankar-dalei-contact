@@ -1,0 +1,19 @@
+{
+  "name": "Shankar Dalei Contact",
+  "short_name": "Shankar",
+  "description": "Personal contact website of Shankar Dalei",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080b18",
+  "theme_color": "#10152c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
